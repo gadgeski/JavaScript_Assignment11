@@ -9,10 +9,13 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background-color: #e0f2f7;
   color: #333;
 }
+/*============================================================
 
+CheckBox
+
+============================================================*/
 .control-area {
   margin-bottom: 30px;
   background-color: #ffffff;
